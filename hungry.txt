@@ -7,3 +7,4 @@ print ("then eat")
 else 
 
 print ("do work")
+print(take a break)
