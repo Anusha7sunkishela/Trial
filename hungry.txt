@@ -8,3 +8,4 @@ else
 
 print ("do work")
 print(take a break)
+print(new)
