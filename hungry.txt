@@ -1,1 +1,9 @@
 hi i am hungry
+
+if hungry == yes
+
+print ("then eat")
+
+else 
+
+print ("do work")
