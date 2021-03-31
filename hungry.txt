@@ -3,6 +3,7 @@ hi i am hungry
 if hungry == yes
 
 print ("then eat")
+print("pizza")
 
 else 
 
