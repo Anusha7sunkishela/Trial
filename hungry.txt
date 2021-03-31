@@ -10,3 +10,5 @@ else
 print ("do work")
 print(take a break)
 print(new)
+if == "thirsty"
+print("drink water")
